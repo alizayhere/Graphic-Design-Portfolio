@@ -1,5 +1,6 @@
 # Graphic-Design-Portfolio
-<img width="1408" height="768" alt="Gemini_Generated_Image_lbbpczlbbpczlbbp" src="https://github.com/user-attachments/assets/730dbdf2-3ad8-44fb-8e55-b63640786a1c" />
+<img width="1248" height="768" alt="Gemini_Generated_Image_bs030sbs030sbs03" src="https://github.com/user-attachments/assets/18b2e16c-80bf-44f5-a348-474d0bba9890" />
+
 
 Welcome to my Graphic Design Portfolio!
 This repository showcases my creative work, including branding, social media designs, marketing materials, and visual concepts.
